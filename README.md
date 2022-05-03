@@ -1,4 +1,15 @@
-> ❓ İçerisinde Bulunanlar ↴
+> ALTYAPI BANA AİT DEĞİLDİR SUNUCU HAZIR BOTUDUR KURDUKTAN SONRA BOTT EKLEME KANALINA .hazır YAZILMASI YETERLİDİR
+> 
+> 
+> 
+> 
+> ❓
+> 
+>  
+>   
+>    
+>     
+çerisinde Bulunanlar ↴
 > 
 > **✅ - BOT Ekleme Komutu**
 > **✅ - Ban Komutu**
@@ -8,6 +19,10 @@
 
 [] => Zorunlu
 <> => İsteğe Bağlı
+
+
+
+
 
 🆒 Başlangıçta ↴
 İlk olarak ayarlar.json'u doldurun. Burası botun ana kalbidir. Eğer burayı doldurmaz ya da eksik bırakırsanız botta hata oluşabilir. Her şeyi ayarladıktan sonra ise botun görebildiği bir kanala "hazır" diye bir mesaj atın ve bu kadar! Artık sistemler hazır!
